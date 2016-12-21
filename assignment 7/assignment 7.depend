@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1482311282 source:/home/vikrum/Coding/CS161/assignment 7/sms.cpp
+	<iostream>
+	<cstring>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1482353264 source:/home/vikrum/Coding/CS161/assignment 8/letterCount.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+
